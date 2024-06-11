@@ -6,6 +6,12 @@ import yfinance as yf
 
 st.set_page_config(page_title="S&P 500 Data App", page_icon="📈")
 
+st.markdown("""
+    <script type="text/javascript">
+        document.title = 'S&P 500 Data App';
+    </script>
+    """, unsafe_allow_html=True)
+
 st.title("S&P 500 Data App")
 
 st.markdown("""
