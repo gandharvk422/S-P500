@@ -4,6 +4,8 @@ import base64
 import matplotlib.pyplot as plt
 import yfinance as yf
 
+st.set_page_config(page_title="S&P 500 Data App", page_icon="📈")
+
 st.title("S&P 500 Data App")
 
 st.markdown("""
