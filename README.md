@@ -1,4 +1,4 @@
-# streamlit-10
+# S&P 500 Data EDA
 
 Launch the web app:
 
